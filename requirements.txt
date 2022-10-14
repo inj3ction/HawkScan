@@ -1,0 +1,15 @@
+requests
+pyopenssl
+queuelib
+fake_useragent
+beautifulsoup4
+argparse
+bs4
+dnspython
+wafw00f
+python-whois
+sockets
+python-engineio==3.14.2 
+python-socketio[client]==4.6.0
+google
+notifypy
