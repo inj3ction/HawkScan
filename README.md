@@ -162,24 +162,3 @@ Security Tool for Reconnaissance and Information Gathering on a website. (python
      python hawkscan.py -u https://www.exemple.com/ --exclude 1337b,403
 
 ```
-
-# Thanks
-Layno (https://github.com/Clayno/) [Technical helper]      
-Sanguinarius (https://twitter.com/sanguinarius_Bt) [Technical helper]  
-Jamb0n69 (https://twitter.com/jamb0n69) [Technical helper]           
-Cyber_Ph4ntoM (https://twitter.com/__PH4NTOM__) [Beta tester & Logo Graphist]
-
-
-# Donations
-
-https://www.paypal.me/c0dejump
-
-Or if you want to offer me a coffee :)
-
-https://ko-fi.com/c0dejump
-
-## Tools used
-
-This script use "WafW00f" to detect the WAF in the first step (https://github.com/EnableSecurity/wafw00f)
-
-This script use "Sublist3r" to scan subdomains (https://github.com/aboul3la/Sublist3r)
