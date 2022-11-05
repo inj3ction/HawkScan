@@ -1,24 +1,9 @@
 # HawkScan
 
-[![PyPI version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=py&type=6&v=2.2&x2=0)](https://pypi.org/project/hawkscan)
-[![PyPI Statistics](https://img.shields.io/pypi/dm/hawkscan.svg)](https://pypistats.org/packages/hawkscan)
-[![Twitter](https://img.shields.io/twitter/follow/c0dejump?label=c0dejump&style=social)](https://twitter.com/intent/follow?screen_name=c0dejump)
-
-
 ![alt tag](https://github.com/c0dejump/HawkScan/blob/master/static/logo_hawkscan.jpeg)
 
 Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
 
-- [News](https://github.com/c0dejump/HawkScan/#News)
-- [Installation](https://github.com/c0dejump/HawkScan/#Installation)
-- [Special features](https://github.com/c0dejump/HawkScan/#Special-features)
-- [TODO](https://github.com/c0dejump/HawkScan/#todo)
-- [Usage](https://github.com/c0dejump/HawkScan/#usage)
-- [Exemples](https://github.com/c0dejump/HawkScan/#exemples)
-- [Thanks](https://github.com/c0dejump/HawkScan/#thanks)
-- [Donations](https://github.com/c0dejump/HawkScan/#donations)
-- [Tools used](https://github.com/c0dejump/HawkScan/#tools-used)
-- [Wiki](https://github.com/c0dejump/HawkScan/wiki)
 
 # News v2.x
     - Add proxy function
@@ -36,8 +21,6 @@ Security Tool for Reconnaissance and Information Gathering on a website. (python
 # Installation
 ``` 
 
-       - git clone https://github.com/c0dejump/HawkScan.git && sudo python3 HawkScan/setup.py install
-       
        - pip(3) install -r requirements.txt 
     
        - python3 -m pip install -r requirements.txt
